@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1",
+        "category": "Apples",
+        "name": "iPhone 13 Pro Max, 256GB, Sierra Blue - Unlocked (Renewed Premium)",
+        "img":"https://m.media-amazon.com/images/I/61i8Vjb17SL._AC_UY218_.jpg",
+        "description": "iPhone 13 Pro Max, 256GB, Sierra Blue - Unlocked",
+        "location": "Sylhet, Bangladesh",
+        "price": "1699.00",
+        "sale_price": "800.00",
+        "used_year": "3",
+        "posted_time": "2022-05-11",
+        "seller_name": "Sofik Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "2",
+        "category": "Apples",
+        "name": "Apple iPhone 12, 64GB, Black - Fully Unlocked (Renewed)",
+        "img":"https://m.media-amazon.com/images/I/71Q0E2DYf2L._AC_UY218_.jpg",
+        "description": "iPhone 13 Pro Max, 256GB, Sierra Blue - Unlocked",
+        "location": "Dhaka, Bangladesh",
+        "price": "530.00",
+        "sale_price": "330.00",
+        "used_year": "2",
+        "posted_time": "2022-06-16",
+        "seller_name": "Ahmed Ali",
+        "identity":"Verified",
+        "features": [
+            {
+                "id": "2",
+                "conditions":"new"
+            }
+        ]
+      
+    },
+    {
+        "id": "3",
+        "category": "Apples",
+        "name": "Apple iPhone 11, 64GB, Purple - Unlocked (Renewed Premium)",
+        "img":"https://m.media-amazon.com/images/I/71D0PKkpinS._AC_UY218_.jpg",
+        "description": "iPhone ",
+        "location": "Sylhet, Bangladesh",
+        "price": "399.00",
+        "sale_price": "280.00",
+        "used_year": "1",
+        "posted_time": "2021-05-11",
+        "seller_name": "Rojik Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "4",
+        "category": "Samsung",
+        "name": "SAMSUNG Galaxy S20 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB",
+        "img":"https://m.media-amazon.com/images/I/71RxOftVoQL._AC_UY218_.jpg",
+        "description": "SAMSUNG Galaxy",
+        "location": "Sylhet, Bangladesh",
+        "price": "687.10",
+        "sale_price": "320.00",
+        "used_year": "3",
+        "posted_time": "2021-01-11",
+        "seller_name": "Kuddus Ali",
+        "identity":"Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "5",
+        "category": "Samsung",
+        "name": "Samsung Galaxy S10+ Factory Unlocked Android Cell Phone | US Version | 512GB of Storage ",
+        "img":"https://m.media-amazon.com/images/I/61IRwSgk0PL._AC_UY218_.jpg",
+        "description": "iPhone 13 Pro Max, 256GB, Sierra Blue - Unlocked",
+        "location": "Sylhet, Bangladesh",
+        "price": "929.00",
+        "sale_price": "800.00",
+        "used_year": "2",
+        "posted_time": "2022-10-11",
+        "seller_name": "Jamal Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "6",
+        "category": "Samsung",
+        "name": "Samsung Electronics Samsung Galaxy S21 5G Enterprise Edition | 128GB",
+        "img":"https://m.media-amazon.com/images/I/51VpBauUMML._AC_UY218_.jpg",
+        "description": "Samsung Electronics Samsung Galaxy S21 5G Enterprise Edition | Factory Unlocked Android | US Version | Pro-Grade Camera, 8K Video, 64MP High Res | 128GB, Phantom Gray (SM-",
+        "location": "Sylhet, Bangladesh",
+        "price": "799.00",
+        "sale_price": "500.00",
+        "used_year": "3",
+        "posted_time": "2021-05-30",
+        "seller_name": "Kamal Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": " 7",
+        "category": "Xiaomi",
+        "name": "Xiaomi Mi 11 Lite NE 5G + 4G LTE Volte Global Unlocked GSM 64MP Triple Camera ",
+        "img":" https://m.media-amazon.com/images/I/616O4heTezL._AC_UY218_.jpg",
+        "description": "Worldwide GSM w/Fast Car Charger (Bubblegum Blue, 256GB+8GB)",
+        "location": "Sylhet, Bangladesh",
+        "price": "309.00",
+        "sale_price": "230.00",
+        "used_year": "2",
+        "posted_time": "2020-05-30",
+        "seller_name": "Samina Ali",
+        "identity":"Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "8",
+        "category": "Xiaomi",
+        "name": "Xiaomi RedMi Note 10 Pro | 128GB 6GB RAM",
+        "img":"https://m.media-amazon.com/images/I/51UyTHwP6wL._AC_UY218_.jpg",
+        "description": "",
+        "location": "Sylhet, Bangladesh",
+        "price": "419.00",
+        "sale_price": "280.00",
+        "used_year": "1",
+        "posted_time": "2022-05-30",
+        "seller_name": "Ahmed Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "9",
+        "category": "Oppo",
+        "name": "Oppo Find X5 PRO 5G Dual CPH2305 256GB 12GB RAM ",
+        "img":" https://m.media-amazon.com/images/I/71prDDq33KL._AC_UY218_.jpg",
+        "description": "Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) Global Version- Ceramic White",
+        "location": "Sylhet, Bangladesh",
+        "price": "259.00",
+        "sale_price": "180.00",
+        "used_year": "4",
+        "posted_time": "2021-05-30",
+        "seller_name": "Kazi Ali",
+        "identity":"Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "10",
+        "category": "Oppo",
+        "name": " OPPO Reno 6 PRO 5G CPH2247 Dual SIM 12GB Ram 256GB ",
+        "img":"https://m.media-amazon.com/images/I/91RvtxtseJL._AC_UY218_.jpg",
+        "description": "Storage Snapdragon 870 EU/UK Global Model Factory Unlocked - Lunar Grey",
+        "location": "Sylhet, Bangladesh",
+        "price": "509.00",
+        "sale_price": "350.00",
+        "used_year": "5",
+        "posted_time": "2018-05-30",
+        "seller_name": "Sani Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "11",
+        "category": "Vivo",
+        "name": "Vivo V9 4GB / 64GB 6.3-inches Dual SIM Factory Unlocked Gold",
+        "img":"https://m.media-amazon.com/images/I/71lQCbf2buL._AC_UY218_.jpg",
+        "description": "Vivo V9 4GB / 64GB 6.3-inches Dual SIM Factory Unlocked Gold",
+        "location": "Sylhet, Bangladesh",
+        "price": "249.00",
+        "sale_price": "190.00",
+        "used_year": "3",
+        "posted_time": "2021-05-30",
+        "seller_name": "Kamal Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    },
+    {
+        "id": "12",
+        "category": "Vivo",
+        "name": "Vivo V9 Youth 4GB / 32GB 6.3-inches Dual SIM Factory Unlocked - Taiwan Stock No Warranty (Gold)",
+        "img":"https://m.media-amazon.com/images/I/712nxo9u15L._AC_UY218_.jpg",
+        "description": "Taiwan Stock No Warranty (Gold)",
+        "location": "Dhaka, Bangladesh",
+        "price": "9.00",
+        "sale_price": "0.00",
+        "used_year": "3",
+        "posted_time": "2021-05-30",
+        "seller_name": "Kamal Ali",
+        "identity":"Not Verified",
+        "features": [
+            {
+                "id": "1",
+                "conditions":"fair"
+            }
+        ]
+      
+    }
+]

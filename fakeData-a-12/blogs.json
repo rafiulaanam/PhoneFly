@@ -1,0 +1,35 @@
+[
+    {
+        "title":"What are the different ways to manage a state in a React application?",
+        "des":"Which state management is best in React? React's useState is the best option for local state management. If you need a global state solution, the most popular ones are Redux, MobX, and the built-in Context API. Your choice will depend on the size of your project, your needs, and your engineers' expertise.",
+        "img":"https://www.freecodecamp.org/news/content/images/2022/02/how-to-manage-state-react.png",
+        "posted-date":"8",
+        "category":"Web Development",
+        "Topic":"React.js"
+        
+    },
+    {
+        "title":"How does prototypical inheritance work?",
+        "des":"The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the [[Prototype]] of an object, we use Object.",
+        "img":"https://www.cronj.com/blog/wp-content/uploads/inheritance.png.webp",
+        "posted-date":"1",
+        "category":"Web Development",
+        "Topic":"JavaScript"
+    },
+    {
+        "title":"What is a unit test? Why should we write unit tests?",
+        "des":"The main objective of unit testing is to isolate written code to test and determine if it works as intended. Unit testing is an important step in the development process, because if done correctly, it can help detect early flaws in code which may be more difficult to find in later testing stages.",
+        "img":"https://i.ytimg.com/vi/lj5nnGa_DIw/maxresdefault.jpg",
+        "posted-date":"4",
+        "category":"Web Development",
+        "Topic":"React"
+    },
+    {
+        "title":"React vs. Angular vs. Vue?",
+        "des":"Vue provides higher customizability and hence is easier to learn than Angular or React. Further, Vue has an overlap with Angular and React with respect to their functionality like the use of components. Hence, the transition to Vue from either of the two is an easy option.",
+        "img":"https://presence.agency/wp-content/uploads/2020/07/1_lC1kj3IeXoE8Z3OCKJoWkw.jpeg",
+        "posted-date":"7",
+        "category":"Web Development",
+        "Topic":"React"
+    }
+]
